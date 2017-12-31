@@ -1,0 +1,24 @@
+{
+	"name": "@slicemenice/jquery-ui-svg",
+	"version": "1.0.1",
+	"description": "A jQuery UI widget based component that will initialize itself with a clone of the referenced element, so the resulting SVG can be manipulated individually using CSS and JavaScript",
+	"keywords": [
+		"jQuery UI",
+		"SVG",
+		"Sprite"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:SliceMeNice/jquery-ui-svg.git"
+	},
+	"bugs": {
+		"url": "https://github.com/SliceMeNice/jquery-ui-svg/issues"
+	},
+	"homepage": "https://github.com/SliceMeNice/jquery-ui-svg",
+	"contributors": [{
+		"name": "Stefan Ullinger",
+		"email": "stefan@slicemenice.de"
+	}],
+	"author": "SliceMeNice",
+	"license": "MIT"
+}
